@@ -1,0 +1,6 @@
+{
+  "name": "Isopolis - 3D Low-Poly City Builder",
+  "description": "A vibrant isometric 3D city-building simulation featuring modular low-poly architecture, dynamic traffic, energy systems, and zoning management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
